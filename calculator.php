@@ -26,6 +26,7 @@ Here are some(but not limit to) reasonable test cases:
 /*Ver 1.4 Changes: Allowed for addition to explicitly mentioned positive numbers; rectified parse error generated
    by trailing sign; rectified multiple operation performance(-3.2+2*4-1/3); added "." character to end of error 
    message; enabled for trailing 0's in operation; enabled for division by signed integers
+   This has been edited by Ajan
 */ 
 $ctr=0;
 if($_GET["fname"])
